@@ -27,4 +27,6 @@ c:\vslayout\vs_community.exe --noweb --add Microsoft.VisualStudio.Workload.Manag
 
 ## References
 
+[Building Source on Visual Studio](https://pcapplusplus.github.io/docs/install/build-source/vs)
+
 [Visual Studio Offline Cache](https://github.com/MicrosoftDocs/visualstudio-docs/blob/master/docs/install/create-an-offline-installation-of-visual-studio.md)
